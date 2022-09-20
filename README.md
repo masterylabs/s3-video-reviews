@@ -4,11 +4,12 @@ https://masterylabs.com
 
 ### Repository
 
-https://github.com/masterylabs/s3-video-offers
+https://github.com/masterylabs/s3-video-reviews
 
 ### Slug & Id
 
-s3-video-offers
+s3-video-reviews
+s3_video_reviews
 
 ## Resources
 

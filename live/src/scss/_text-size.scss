@@ -1,0 +1,43 @@
+.text-h1 {
+  @apply text-9xl font-normal;
+  // font-size: 6rem !important;
+  // line-height: 6rem;
+  // font-weight: 300;
+}
+
+.text-h2 {
+  @apply text-7xl font-normal;
+  // font-size: 3.75rem !important;
+  // line-height: 3.75rem;
+  // letter-spacing: -0.0083333333em !important;
+  // font-weight: 300;
+}
+
+.text-h3 {
+  @apply text-5xl font-normal;
+  // font-size: 3rem !important;
+  // line-height: 3.125rem;
+  // letter-spacing: normal !important;
+  // font-weight: 300;
+}
+
+.text-h4 {
+  @apply text-3xl font-normal;
+  // font-size: 2.125rem !important;
+  // line-height: 2.5rem;
+  // letter-spacing: 0.0073529412em !important;
+}
+
+.text-h5 {
+  @apply text-xl font-normal;
+  // font-size: 1.5rem !important;
+  // font-weight: 400;
+  // letter-spacing: normal !important;
+}
+
+.text-h6 {
+  @apply text-lg font-normal;
+  // font-size: 1.5rem !important;
+  // font-weight: 400;
+  // letter-spacing: normal !important;
+}

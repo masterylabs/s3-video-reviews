@@ -1,0 +1,97 @@
+@import './controls.scss';
+@import './timeline.scss';
+
+.m-player-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+
+  iframe,
+  video,
+  .m-player {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin-bottom: -7px;
+  }
+
+  .wistia_embed {
+    .w-bottom-bar {
+      display: none !important;
+    }
+  }
+}
+
+.m-player-layer {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  max-height: 100%;
+  // background: rgba(255, 0, 0, 0.2);
+  pointer-events: none;
+
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  // flex: 1 1 auto;
+  // flex: 1 1 0%;
+  // align-items: center; .m-player-pointer-events-auto,
+  button,
+  a,
+  .m-pointer-events {
+    pointer-events: auto;
+  }
+
+  &.m-player-flex-end {
+    align-items: flex-end;
+  }
+}
+
+.m-player-layer-dark {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.m-player-row {
+  width: 100%;
+  display: flex;
+  // background: yellow;
+  align-items: center;
+  align-content: center;
+}
+
+.m-player-align-center {
+  align-items: center;
+}
+
+.m-player-flex-grow {
+  flex-grow: 1;
+}
+
+// m-player-click-mask
+.m-player-click-mask {
+  pointer-events: auto !important;
+  // background: red;
+}
+.m-player-preview-mask {
+  z-index: 10000;
+}
+
+.m-player-overlay-full {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+
+  button,
+  a,
+  .ml-clickable {
+    pointer-events: auto;
+  }
+}

@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+
+@import 'theme';
+@import 'elevation';
+@import 'highlight';
+@import 'rounded';
+@import 'text-align';
+@import 'text-size';
+
+@import './m/index.scss';
+@import './p/index.scss';
+
+// body,
+#app {
+  background: rgba(207, 5, 5, 0.32);
+  @apply flex flex-col h-screen justify-between;
+}
+main {
+  @apply mb-auto;
+  outline: solid red 5px;
+}
+main.fill-height {
+  @apply mb-0;
+}
+
+@tailwind utilities;

@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-filter": "^7.0.0",
+    "gulp-replace": "^1.1.3",
+    "gulp-zip": "^5.1.0"
+  }
+}

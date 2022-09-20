@@ -1,0 +1,169 @@
+{
+  "type": "block",
+  "name": "Upgrade",
+  "children": [
+    {
+      "type": "box",
+      "name": null,
+      "children": [
+        {
+          "type": "text",
+          "name": "Text",
+          "children": null,
+          "timed": null,
+          "id": "cvteEpvEYgIufjVf9TgrG",
+          "props": {
+            "textSize": "h5"
+          },
+          "opts": {},
+          "textContent": "Get Unlimited Domains For ONLY $XX Extra!",
+          "disabled": false
+        }
+      ],
+      "timed": null,
+      "props": {
+        "pl": 0,
+        "pr": 0,
+        "pt": 0,
+        "pb": 0,
+        "ml": null,
+        "mr": null,
+        "mt": null,
+        "mb": 0,
+        "elevation": 0
+      },
+      "opts": {},
+      "id": "7-ZcCLjhCDHkzPzFYrBE4",
+      "childProps": {},
+      "disabled": false
+    },
+    {
+      "type": "box",
+      "name": null,
+      "children": [
+        {
+          "type": "text",
+          "name": "Text",
+          "children": null,
+          "timed": null,
+          "id": "leAJYC-L05ucjk1Dkz3zL",
+          "props": {},
+          "opts": {},
+          "textContent": " Choose the Unlimited Domains Package and install on all your sites.",
+          "disabled": false
+        }
+      ],
+      "timed": null,
+      "props": {
+        "pl": 0,
+        "pr": 0,
+        "pt": 0,
+        "pb": 0,
+        "ml": null,
+        "mr": null,
+        "mt": "n4",
+        "mb": 0,
+        "elevation": 0
+      },
+      "opts": {},
+      "id": "8BdMonA5icUGGy2CoiJuU",
+      "childProps": {},
+      "disabled": false
+    },
+    {
+      "type": "box",
+      "name": null,
+      "children": [
+        {
+          "type": "buy-btn",
+          "name": "Buy Button",
+          "children": null,
+          "timed": null,
+          "props": {
+            "checkout": false,
+            "cart": true,
+            "cards": true,
+            "paypal": false,
+            "size": "x-large"
+          },
+          "opts": {},
+          "textContent": "Yes, Give Me The Upgrade Version!",
+          "id": "kdNT-Q_-YPTmiw45-lpaC",
+          "disabled": false
+        }
+      ],
+      "timed": null,
+      "props": {
+        "pl": 0,
+        "pr": 0,
+        "pt": 0,
+        "pb": 0,
+        "ml": null,
+        "mr": null,
+        "mt": null,
+        "mb": null,
+        "elevation": 0
+      },
+      "opts": {},
+      "id": "-pCd37Zi7YgmpOx8-l-Za",
+      "childProps": {},
+      "disabled": false
+    },
+    {
+      "type": "box",
+      "name": null,
+      "children": [
+        {
+          "type": "text",
+          "name": "Text",
+          "children": null,
+          "timed": null,
+          "id": "sgmJEoSV6lBrafdWs0mdB",
+          "props": {
+            "textColor": "rgba(158, 158, 158, 1)",
+            "textSize": "caption"
+          },
+          "opts": {},
+          "textContent": "Only available before checkout. Don't miss out.",
+          "disabled": false
+        }
+      ],
+      "timed": null,
+      "props": {
+        "pl": 0,
+        "pr": 0,
+        "pt": 0,
+        "pb": 0,
+        "ml": null,
+        "mr": null,
+        "mt": 0,
+        "mb": null,
+        "elevation": 0
+      },
+      "opts": {},
+      "id": "cvyY-FZPFkIUy6qhbH9D-",
+      "childProps": {},
+      "disabled": false
+    }
+  ],
+  "timed": null,
+  "props": {
+    "pl": 0,
+    "pr": 0,
+    "pt": 0,
+    "pb": 0,
+    "ml": null,
+    "mr": 0,
+    "mt": null,
+    "mb": null,
+    "elevation": 0,
+    "dark": false,
+    "color": ""
+  },
+  "opts": {},
+  "id": "Rfkaiu9HzAZFnR7jL4vsU",
+  "childProps": {
+    "cols": 12
+  },
+  "disabled": false
+}

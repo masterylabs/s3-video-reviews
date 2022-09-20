@@ -1,0 +1,49 @@
+// $body-font-family: 'Work Sans', serif;
+
+// Vuetify Fixes
+$btn-text-transform: lowercase;
+
+.v-card {
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.ml-no-select {
+  user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -o-user-select: none;
+}
+
+// WP Admin
+iframe#ml_app {
+  position: absolute;
+  margin-left: -20px;
+  top: 0px;
+  left: 0px;
+
+  width: calc(100vw - 160px);
+  height: calc(100vh - 32px);
+}
+
+iframe#ml_app.ml-expanded {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  z-index: 100000;
+  margin-left: 0px;
+}
+
+@media only screen and (max-width: 960px) {
+  iframe#ml_app {
+    width: calc(100vw - 36px);
+  }
+}
+
+@media only screen and (max-width: 782px) {
+  iframe#ml_app {
+    top: 46px;
+    width: 100vw;
+  }
+}

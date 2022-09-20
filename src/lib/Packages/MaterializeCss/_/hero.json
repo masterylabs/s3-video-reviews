@@ -1,0 +1,69 @@
+{
+  "id": "hero_1599037523939_3",
+  "name": "hero",
+  "auth": {
+    "active": false,
+    "access": []
+  },
+  "schedule": {
+    "video": {
+      "active": false
+    },
+    "date": {
+      "active": false
+    },
+    "page": {
+      "active": false
+    }
+  },
+  "container": {
+    "spacing": {},
+    "elevation": 0,
+    "dark": true,
+    "fluid": true,
+    "noGutters": true
+  },
+  "wrapper": {
+    "spacing": {},
+    "elevation": 0
+  },
+  "noContentSpacing": true,
+  "content": {
+    "img": {
+      "src": "https://ginoskocounselling.com/images/ginosko-cover.jpg"
+    },
+    "parallax": false,
+    "matchHeight": false,
+    "height": 715,
+    "heading": {
+      "heading": {
+        "marginX": 0,
+        "marginY": 0,
+        "paddingX": 0,
+        "paddingY": 0,
+        "elevation": 0,
+        "text": "{business.slogan}",
+        "textSize": "h3"
+      },
+      "subheading": {
+        "marginX": 0,
+        "marginY": 0,
+        "paddingX": 0,
+        "paddingY": 0,
+        "elevation": 0,
+        "text": "{contact.name}",
+        "textSize": "h6"
+      },
+      "advanced": false,
+      "text": "Rebuilding Relationships",
+      "textSize": "h3"
+    },
+    "subheading": {
+      "text": ""
+    },
+    "downArrow": true,
+    "to": "welcome"
+  },
+  "noPageSpacingY": true,
+  "noPageSpacingX": true
+}

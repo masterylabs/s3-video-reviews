@@ -1,0 +1,109 @@
+{
+  "id": "faqs_1599038050172_15",
+  "name": "faqs",
+  "auth": { "active": false, "access": [] },
+  "schedule": {
+    "video": { "active": false },
+    "date": { "active": false },
+    "page": { "active": false }
+  },
+  "container": { "spacing": {} },
+  "wrapper": { "spacing": {} },
+  "content": {
+    "heading": {
+      "text": "Ginosko FAQs",
+      "elevation": 0,
+      "color": "#FFFFFFFF"
+    },
+    "subheading": {},
+    "content": {},
+    "items": [
+      {
+        "id": "faq_1599038091783_17",
+        "title": { "text": "What is a Gottman Relationship Checkup" },
+        "content": {
+          "html": "<p>Gottman Relationship Checkup Is an extensive online assessment questionnaire for couples designed to assess the couples strengths, differences and areas of growth. It provides clinicians with clinical feedback and specific recommendations for treatment planning. The Gottman Relationship Checkup is essential in assisting and maximising your treatment outcomes.</p>"
+        },
+        "col": {}
+      },
+      {
+        "id": "faq_1599130264732_7",
+        "title": { "text": "How many sessions will we need?" },
+        "content": {
+          "html": "<p>Each couple will present with issues and needs which are different. It will be entirely up to each couple as to how long they wish to work on their relationship, what pace they travel at, and how to resolve their differences. Some couples may decide to try out with just a few weekly sessions while others may want to commit to 6-12 sessions. Some couples will plunge right into a one or two day Marathon to get the maximum impact. There is no right or wrong way.</p>"
+        },
+        "col": {}
+      },
+      {
+        "id": "faq_1599130312428_8",
+        "title": {
+          "text": "If my partner doesn't engage, can I still do therepy"
+        },
+        "content": {
+          "html": "<p>We only specialise in workshops and couples counselling where both partners are involved. We recommend you seek out a relationship counsellor who does individual counselling for partners.</p>"
+        },
+        "col": {}
+      },
+      {
+        "id": "faq_1599130347439_9",
+        "title": {
+          "text": "What are your fees and how cancellation policy"
+        },
+        "content": {
+          "html": "<p>Weekly 1 hour sessions Cost is $180.00 per couple. Payment to be made at time of consultation. Medicare Rebate is available for up to 10 sessions per year if you have a Mental Health Care Plan from your GP.</p>"
+        },
+        "col": {}
+      },
+      {
+        "id": "faq_1599130365610_10",
+        "title": { "text": "Is Telehealth available" },
+        "content": {
+          "html": "<p>Most of our Pre-Marathon Assessments are done via video conferencing.</p>"
+        },
+        "col": {}
+      },
+      {
+        "id": "faq_1599130385264_11",
+        "title": {
+          "text": "Do therapists keep secrets between partners"
+        },
+        "content": {
+          "html": "<p>It is not recommended that therapists generally keep secrets between partners.</p><p>Our role is to facilitate and encourage transparency between partners in order to reinforce a safe and trusting environment.</p><p>If a partner discloses a secret that will be therapy interfering then we will encourage the partner to talk to their spouse or offer to support by facilitating the conversation between them in a safe way.</p>"
+        },
+        "col": {}
+      },
+      {
+        "id": "faq_1599131526530_12",
+        "title": {
+          "text": "Why choose Marathon Therapy instead of traditional weekly therapy"
+        },
+        "content": {
+          "html": "<p>When stuck and experiencing relationship distress or your relationship is on the verge of collapse.</p><p>If you are pressed for time Marathon therapy makes it possible for couples to cover lots of ground in a short period of time.</p><p>In a Marathon, 12 weeks of weekly therapy can be condensed into just 2 days of counselling to be completed as a stand alone treatment w/o requiring an ongoing commitment. Whilst follow up sessions can be beneficial, not required.</p><p>Marathon therapy is uninterrupted time outside the traditional confines of time limits . Marathons are known to increase momentum and allow couples to dive deeper more rapidly with each other to resolve their issues.</p><p>If you want an impactful jump start then a marathon is the way to go.</p><p>Also ideal for couples travelling long distances.</p>"
+        },
+        "col": {}
+      },
+      {
+        "id": "faq_1599131568494_13",
+        "title": {
+          "text": "When is a couple not suitable for therapy"
+        },
+        "content": {
+          "html": "<p>When there is untreated pervasive mental health illness such as Schizophrenia, Bipolar and/or other psychosis.</p><p>When one or both partners are heavily engaged in substance misuse and/ or other detrimental addictions</p><p>When a person is at risk of harming themselves or others</p><p>When there is characterological domestic violence or DVO's</p><p>When a person is acutely suicidal or engaging in self harming behaviours.</p><p>If one or both partners are actively involved in an affair</p><p>Considerations may apply to couples where there is a serious medical/ health concern such as chronic fatigue or acute pain, more intensive longer counselling sessions may not be suitable.</p>"
+        },
+        "col": {}
+      },
+      {
+        "id": "faq_1599131637234_14",
+        "title": {
+          "text": "What can I expect from Couples Counseling"
+        },
+        "content": {
+          "html": "<p>Our couples counseling will provide you with a safe, nonjudgmental environment where you can safely talk about your challengers, work through difficulties and learn strategies that will help you break unhelpful ways of relating to each other.</p><p>Our aim is for couples to come to know each other in a new light, work through their differences and establish a solid relationship that can handle any storm that comes your way. Through evidence based therapy we have the tools that have proven to transform and heal relationships.</p><p>During therapy you will have the opportunity to identify negative patterns of communication that may be tearing your marriage apart while learning to replace these with more healthy styles of commutation. With the support of your therapist you will be given practical interactive exercises to guide and safe guard you while you work through your relationship dilemmas.</p>"
+        },
+        "col": {}
+      }
+    ]
+  },
+  "color": "#424242FF",
+  "dark": false
+}

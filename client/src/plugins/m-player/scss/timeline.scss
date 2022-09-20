@@ -1,0 +1,86 @@
+// // Timeline
+$time-padding: 10px;
+// Timeline layer
+.m-player-timeline-container {
+  flex-grow: 1;
+}
+
+.m-player-timeline {
+  position: relative;
+  color: #000;
+  pointer-events: auto;
+  div {
+    pointer-events: none;
+  }
+
+  & > div {
+    position: absolute;
+    text-align: right;
+    height: 100%;
+  }
+}
+
+.m-player-timeline-bg {
+  background: rgb(0, 0, 0);
+  width: 100%;
+  opacity: 0.2;
+}
+
+.ml-player-timeline-transition-width {
+  .m-player-timeline-ct-bg,
+  .m-player-timeline-ct-marker,
+  .m-player-timeline-ct-text {
+    transition: width 0.5s;
+  }
+}
+
+.m-player-timeline-ct-bg {
+  background: #000;
+  opacity: 0.28;
+}
+.m-player-timeline-ct-text {
+  padding: 0px $time-padding;
+  background: none !important;
+  white-space: nowrap;
+}
+.m-player-timeline-ct-marker {
+  background: none !important;
+  border-right: solid 1px #fff;
+}
+
+.m-player-timeline-preview-bg {
+  background: #000;
+  opacity: 0.5;
+}
+
+.m-player-timeline-preview-text {
+  padding: 0px $time-padding;
+  background: none !important;
+  white-space: nowrap;
+  // border-right: dashed 1px #000;
+}
+
+.m-player-timeline-preview-marker {
+  border-right: dashed 1px #000;
+}
+
+.m-player-timeline-dur {
+  width: 100%;
+  padding: 0px $time-padding;
+}
+
+// Dark
+
+.m-player-timeline-container.m-player-timeline-dark {
+  .m-player-timeline {
+    color: #fff;
+  }
+
+  .m-player-timeline-ct-marker {
+    border-right: solid 1px #fff;
+  }
+
+  .m-player-timeline-preview-marker {
+    border-right: dashed 1px #fff;
+  }
+}

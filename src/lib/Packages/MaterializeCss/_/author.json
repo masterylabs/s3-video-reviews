@@ -1,0 +1,31 @@
+{
+  "id": "author_1599037998102_13",
+  "name": "author",
+  "auth": { "active": false, "access": [] },
+  "schedule": {
+    "video": { "active": false },
+    "date": { "active": false },
+    "page": { "active": false }
+  },
+  "container": { "spacing": {} },
+  "wrapper": { "spacing": {} },
+  "content": {
+    "avatar": { "tile": true },
+    "img": {
+      "src": "http://dev-wp.test/wp-content/uploads/2022/03/dr-rachel.webp",
+      "alt": "Dr. Rachel Graves"
+    },
+    "heading": {
+      "text": "Hi I\u2019m Rachel Graves, Clinical Social Worker"
+    },
+    "subheading": {
+      "text": "Founder of Ginosko -Rebuilding Relationships",
+      "elevation": 0,
+      "backgroundColor": "",
+      "color": ""
+    },
+    "content": {
+      "html": "<h3 class=\"mb-4\">My Qualifications</h3><p>I am an Accredited Mental Health Social Worker with a Bachelor in Psychology and a Masters in Clinical Social Work from New Mexico Highland University, USA.</p><ul class=\"subtitle-1 mb-8\"><li>Full Membership and Accreditation with the Australian Association of Social Workers</li><li>Medicare and NDIS Registered Provider</li><li>Registered member of the Gottman Institute</li><li>Member of the Psychology Today</li><li>Over 12 years of clinical experience delivering evidence based therapy</li></ul><p>Full Membership and Accreditation with the Australian Association of Social Workers. Medicare and NDIS Registered Provider Registered member of the Gottman Institute Member of the Psychology Today Over 12 years of clinical experience delivering evidence based therapy</p><h3 class=\"mb-4 mt-8\">My Clinical skills &amp; background</h3><p>Highly experienced and skilled in delivering a range of evidence based therapies such as Eye movement Desensitization Reprocessing (EMDR), Dialectical Behavioural Therapy (DBT) including Trauma Focussed Cognitive Behavioral Therapy (TF-CBT) and Motivational Interviewing. Level 2 trained in Gottman&rsquo;s Couples Therapy.</p><p>I have extensive background in treating individuals, couples and families with a variety of issues (Relationship, life transitions, substance misuse, grief and loss etc). and clinical disorders; Post Traumatic Stress Disorder, Complex Trauma, Depression, Anxiety, Personality Disorders and substance dependence including other comorbid disorders using integrated evidence based therapies proven effective with individuals, couples &amp; families.</p><p>facilitated &amp; coordinated group programs while in the public and private mental health sector. Over the last twelve years I worked in both inpatient &amp; outpatient clinics including community outreach.</p>"
+    }
+  }
+}

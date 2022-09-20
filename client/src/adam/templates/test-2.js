@@ -1,0 +1,38 @@
+export default {
+  type: 'box',
+  name: null,
+  children: [
+    {
+      type: 'video',
+      name: 'Video',
+      children: null,
+      timed: null,
+      props: {
+        src: 'http://media.test/video.mp4',
+        poster: '',
+        color: '',
+        preview: false,
+        noControls: false,
+        noPause: false,
+      },
+      opts: {},
+      provider: null,
+      duration: 10.05424,
+      id: '9itiaOwpB4jvMaprKEZIv',
+      service: 'video',
+    },
+  ],
+  timed: null,
+  props: {
+    pl: null,
+    pr: null,
+    pt: null,
+    pb: null,
+    ml: null,
+    mr: null,
+    mt: null,
+    mb: null,
+  },
+  opts: {},
+  id: 'Gx1hpYWB7XQveIAo4ZIkz',
+}

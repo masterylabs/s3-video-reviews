@@ -1,0 +1,97 @@
+{
+  "id": "navbar_1599037515599_2",
+  "name": "navbar",
+  "auth": {
+    "active": false,
+    "access": []
+  },
+  "schedule": {
+    "video": {
+      "active": false
+    },
+    "date": {
+      "active": false
+    },
+    "page": {
+      "active": false
+    }
+  },
+  "container": {
+    "spacing": {},
+    "noGutters": true,
+    "elevation": 0
+  },
+  "wrapper": {
+    "spacing": {},
+    "elevation": 8
+  },
+  "noContentSpacing": true,
+  "content": {
+    "options": {
+      "primaryButton": false,
+      "secondaryButton": false,
+      "spacingY": 4,
+      "paddingX": 4
+    },
+    "toolbar": {
+      "flat": true,
+      "color": ""
+    },
+    "button": {},
+    "primaryButton": {
+      "text": "Register",
+      "ml": 2,
+      "dark": true,
+      "depressed": true
+    },
+    "secondaryButton": {
+      "text": "Login",
+      "ml": 2,
+      "dark": true,
+      "outlined": true
+    },
+    "items": [
+      {
+        "text": "Welcome",
+        "children": [],
+        "id": "link_navbar_1",
+        "clickAction": "section",
+        "section": "welcome_1599037579282_4"
+      },
+      {
+        "text": "Services",
+        "value": "",
+        "url": "",
+        "children": [],
+        "id": "link_navbar_2",
+        "clickAction": "section",
+        "section": "services_1599037735465_8"
+      },
+      {
+        "text": "Couples Marathon",
+        "clickAction": "section",
+        "section": "services_1599037735465_8",
+        "children": [],
+        "id": "link_1599044952585_18"
+      },
+      {
+        "text": "About Us",
+        "clickAction": "section",
+        "section": "author_1599037998102_13",
+        "children": [],
+        "id": "link_1599044969728_19"
+      },
+      {
+        "text": "FAQs",
+        "clickAction": "section",
+        "section": "faqs_1599038050172_15",
+        "children": [],
+        "id": "link_1599044980157_20"
+      }
+    ],
+    "flat": true,
+    "alignLinks": "left"
+  },
+  "noPageSpacingY": true,
+  "noPageSpacingX": true
+}

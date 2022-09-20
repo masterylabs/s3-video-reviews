@@ -1,0 +1,70 @@
+// FROM QUICK VIDEO OFFERS
+
+html {
+  overflow-y: auto !important;
+}
+
+// .theme--light.v-application {
+//   background: rgba(255, 255, 255, 0) !important;
+// }
+
+.v-card {
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.v-btn {
+  text-transform: capitalize;
+}
+
+.ml-pointer {
+  cursor: pointer;
+}
+
+.v-slider {
+  min-width: 40px;
+}
+
+// Colors
+// $bg-color: #1d2327;
+// $dot-color: rgb(99, 110, 116);
+
+// // Dimensions
+// $dot-size: 1px;
+// $dot-space: 22px;
+
+// .v-application.theme--dark {
+//   background: linear-gradient(
+//         90deg,
+//         $bg-color ($dot-space - $dot-size),
+//         transparent 1%
+//       )
+//       center,
+//     linear-gradient($bg-color ($dot-space - $dot-size), transparent 1%) center,
+//     $dot-color;
+//   background-size: $dot-space $dot-space;
+// }
+
+.m-mobi-bg-preview {
+  position: fixed;
+  left: 50%;
+  top: 90px;
+  background: white;
+  width: 412px;
+  height: 732px;
+  margin-left: -206px;
+  z-index: 1000;
+  opacity: 1;
+  overflow: hidden;
+  border: solid 3px rgba(255, 255, 255, 0.735);
+  transition: all 600ms;
+  transition-timing-function: cubic-bezier(0.6, -0.28, 0.735, 0.045);
+
+  &.m-mobi-bg-preview-landscape {
+    height: 412px !important;
+    width: 732px !important;
+    margin-left: -366px !important;
+    margin-top: 25px;
+    transition: all 600ms;
+    transition-timing-function: cubic-bezier(0.6, -0.28, 0.735, 0.045);
+  }
+}

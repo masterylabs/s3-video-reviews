@@ -1,0 +1,732 @@
+{
+  "page_type": "offer",
+  "meta": {},
+  "theme": {
+    "color": "#",
+    "dark": false,
+    "spaceY": 2,
+    "myMd": 2,
+    "pa": 2,
+    "blockPadding": 2,
+    "boxPaddingY": 2,
+    "boxSpaceY": 2,
+    "elevation": 4,
+    "isFluid": false,
+    "fillHeight": true,
+    "useMaxWidth": false,
+    "maxWidth": 500,
+    "nudgeUp": false,
+    "rounded": "0"
+  },
+  "bg": {
+    "color": "",
+    "src": "",
+    "mobiSrc": "",
+    "filter": "",
+    "position": "center center"
+  },
+  "seo": {
+    "title": "",
+    "image": "",
+    "description": "",
+    "keywords": "",
+    "sponsored": false,
+    "nofollow": true,
+    "noindex": true
+  },
+  "opts": {},
+  "body": {
+    "type": "body",
+    "props": {},
+    "opts": {},
+    "children": [
+      {
+        "type": "main",
+        "name": null,
+        "children": [
+          {
+            "type": "section",
+            "name": null,
+            "children": [
+              {
+                "type": "block",
+                "name": "Video",
+                "children": [
+                  {
+                    "type": "box",
+                    "name": "Video",
+                    "children": [
+                      {
+                        "type": "video",
+                        "name": "Video",
+                        "children": null,
+                        "timed": null,
+                        "props": {
+                          "src": "https://player.vimeo.com/progressive_redirect/playback/744156577/rendition/720p/file.mp4?loc=external&signature=f062438294cbc808b6f0dd6ddafd06c74c7ef0710f034fdd7e8108e70d7dc770",
+                          "poster": "https://i.vimeocdn.com/video/1497115806-1acbeb105463beb56c6fcd003bd9759cf5fcccef88e1c75af228a0e89a41439e-d_640",
+                          "color": "",
+                          "preview": false,
+                          "noControls": false,
+                          "noPause": false
+                        },
+                        "opts": {},
+                        "service": "video",
+                        "duration": 18.046667,
+                        "id": "ISTHGLa6mOBrvnZzZYrmh",
+                        "disabled": false
+                      }
+                    ],
+                    "timed": null,
+                    "props": {
+                      "pl": null,
+                      "pr": null,
+                      "pt": null,
+                      "pb": null,
+                      "ml": null,
+                      "mr": null,
+                      "mt": null,
+                      "mb": null
+                    },
+                    "opts": {},
+                    "id": "nS09yiixehTMCbi3wK6JH",
+                    "childProps": {},
+                    "disabled": false
+                  }
+                ],
+                "timed": null,
+                "props": {
+                  "pl": null,
+                  "pr": null,
+                  "pt": null,
+                  "pb": null,
+                  "ml": null,
+                  "mr": null,
+                  "mt": null,
+                  "mb": null
+                },
+                "opts": {},
+                "id": "1KFaMRyIJjzOJ__mnXHmK",
+                "childProps": {
+                  "cols": 12
+                },
+                "disabled": false
+              },
+              {
+                "type": "block",
+                "name": "Headline",
+                "children": [
+                  {
+                    "type": "box",
+                    "name": null,
+                    "children": [
+                      {
+                        "type": "text",
+                        "name": "Text",
+                        "children": null,
+                        "timed": null,
+                        "id": "fbI8Jugyz-PWP3kHo4VIW",
+                        "props": {
+                          "highlight": false,
+                          "bold": false,
+                          "italic": false,
+                          "underline": false,
+                          "textSize": "h4",
+                          "textAlign": "center",
+                          "textColor": ""
+                        },
+                        "opts": {},
+                        "textContent": "Congratulations, Thank You!",
+                        "disabled": false
+                      }
+                    ],
+                    "timed": null,
+                    "props": {
+                      "pl": null,
+                      "pr": null,
+                      "pt": null,
+                      "pb": null,
+                      "ml": null,
+                      "mr": null,
+                      "mt": null,
+                      "mb": null
+                    },
+                    "opts": {},
+                    "id": "5_UYJbHB_fj--wHKhiulY",
+                    "childProps": {},
+                    "disabled": false
+                  }
+                ],
+                "timed": null,
+                "props": {
+                  "pl": 0,
+                  "pr": 0,
+                  "pt": 0,
+                  "pb": 0,
+                  "ml": null,
+                  "mr": null,
+                  "mt": 0,
+                  "mb": null,
+                  "elevation": 0,
+                  "color": "rgba(200, 230, 201, 1)",
+                  "dark": false
+                },
+                "opts": {},
+                "id": "RdnaOQ-IBBkl0ZYi3l7KN",
+                "childProps": {
+                  "cols": 12
+                },
+                "disabled": false
+              },
+              {
+                "type": "block",
+                "name": "Check Email",
+                "children": [
+                  {
+                    "type": "box",
+                    "name": null,
+                    "children": [
+                      {
+                        "type": "text",
+                        "name": "Text",
+                        "children": null,
+                        "timed": null,
+                        "id": "iywBQGfTajPz1MrurRkPW",
+                        "props": {
+                          "highlight": false,
+                          "bold": true,
+                          "italic": false,
+                          "underline": false,
+                          "textSize": "h6",
+                          "textAlign": "left",
+                          "textColor": ""
+                        },
+                        "opts": {},
+                        "textContent": "Check Your Purchase Email For Access",
+                        "disabled": false
+                      }
+                    ],
+                    "timed": null,
+                    "props": {
+                      "pl": null,
+                      "pr": null,
+                      "pt": null,
+                      "pb": null,
+                      "ml": null,
+                      "mr": null,
+                      "mt": null,
+                      "mb": null
+                    },
+                    "opts": {},
+                    "id": "JBmH0bzJkQyNjpchWGgfB",
+                    "childProps": {},
+                    "disabled": false
+                  },
+                  {
+                    "type": "box",
+                    "name": null,
+                    "children": [
+                      {
+                        "type": "content",
+                        "name": "Content",
+                        "children": null,
+                        "timed": null,
+                        "props": {},
+                        "opts": {},
+                        "htmlContent": "<p>An email has been sent to you with a secure members login password. Please check your email for your access details. </p><p>QUICK TIP: If you do not find your welcome email with your access information, you can try the login help option on the login page (link below).</p>",
+                        "id": "HvsrhyaroIUW5phgEQBMn",
+                        "disabled": false
+                      }
+                    ],
+                    "timed": null,
+                    "props": {
+                      "pl": null,
+                      "pr": null,
+                      "pt": null,
+                      "pb": null,
+                      "ml": null,
+                      "mr": null,
+                      "mt": null,
+                      "mb": null
+                    },
+                    "opts": {},
+                    "id": "4qXVMmhYVPJPvkUrXOUTl",
+                    "childProps": {},
+                    "disabled": false
+                  }
+                ],
+                "timed": null,
+                "props": {
+                  "pl": 0,
+                  "pr": 0,
+                  "pt": 0,
+                  "pb": 0,
+                  "ml": null,
+                  "mr": null,
+                  "mt": null,
+                  "mb": null,
+                  "elevation": 0
+                },
+                "opts": {},
+                "id": "AGbW71HE2ueCYXnzYKF57",
+                "childProps": {
+                  "cols": 12
+                },
+                "disabled": false
+              },
+              {
+                "type": "block",
+                "name": "Members Login",
+                "children": [
+                  {
+                    "type": "box",
+                    "name": null,
+                    "children": [
+                      {
+                        "type": "text",
+                        "name": "Text",
+                        "children": null,
+                        "timed": null,
+                        "id": "J08ymtpyjKB-KAgLzjTV0",
+                        "props": {
+                          "highlight": false,
+                          "bold": true,
+                          "italic": false,
+                          "underline": false,
+                          "textSize": "h6",
+                          "textAlign": "left",
+                          "textColor": ""
+                        },
+                        "opts": {},
+                        "textContent": "Login To Members Area",
+                        "disabled": false
+                      }
+                    ],
+                    "timed": null,
+                    "props": {
+                      "pl": null,
+                      "pr": null,
+                      "pt": null,
+                      "pb": null,
+                      "ml": null,
+                      "mr": null,
+                      "mt": null,
+                      "mb": null
+                    },
+                    "opts": {},
+                    "id": "sHXubRk6TrgiMwnO4XfVT",
+                    "childProps": {},
+                    "disabled": false
+                  },
+                  {
+                    "type": "box",
+                    "name": null,
+                    "children": [
+                      {
+                        "type": "content",
+                        "name": "Content",
+                        "children": null,
+                        "timed": null,
+                        "props": {},
+                        "opts": {},
+                        "htmlContent": "<p>Use your email and password to login to the members area. </p><p>(If you have purchased other products from us and used the same email during checkout, you can use your existing account email and password to access your purchase)<span class=\"ql-cursor\">﻿﻿</span></p>",
+                        "id": "wq9TVeEap4ugoTekdh5Mi",
+                        "disabled": false
+                      }
+                    ],
+                    "timed": null,
+                    "props": {
+                      "pl": null,
+                      "pr": null,
+                      "pt": null,
+                      "pb": null,
+                      "ml": null,
+                      "mr": null,
+                      "mt": null,
+                      "mb": null
+                    },
+                    "opts": {},
+                    "id": "Wx6wXIopdeU5uJkdTvYuR",
+                    "childProps": {},
+                    "disabled": false
+                  },
+                  {
+                    "type": "box",
+                    "name": null,
+                    "children": [
+                      {
+                        "type": "btn",
+                        "name": "Button",
+                        "children": null,
+                        "timed": null,
+                        "props": {
+                          "color": "",
+                          "openNew": true,
+                          "checkout": false,
+                          "size": "",
+                          "href": "https://"
+                        },
+                        "opts": {},
+                        "textContent": "Login To Members",
+                        "id": "5hIDchLp6qk_0qjPEULQB",
+                        "disabled": false
+                      }
+                    ],
+                    "timed": null,
+                    "props": {
+                      "pl": null,
+                      "pr": null,
+                      "pt": null,
+                      "pb": null,
+                      "ml": null,
+                      "mr": null,
+                      "mt": null,
+                      "mb": null
+                    },
+                    "opts": {},
+                    "id": "LSbb3Z199xAYsiQRVUiWS",
+                    "childProps": {},
+                    "disabled": false
+                  }
+                ],
+                "timed": null,
+                "props": {
+                  "pl": 0,
+                  "pr": 0,
+                  "pt": 0,
+                  "pb": 0,
+                  "ml": null,
+                  "mr": null,
+                  "mt": null,
+                  "mb": null,
+                  "elevation": 0
+                },
+                "opts": {},
+                "id": "NiCBAJO16O3hFIDqTDycJ",
+                "childProps": {
+                  "cols": 12
+                },
+                "disabled": false
+              },
+              {
+                "type": "block",
+                "name": "Contact Support",
+                "children": [
+                  {
+                    "type": "box",
+                    "name": null,
+                    "children": [
+                      {
+                        "type": "text",
+                        "name": "Text",
+                        "children": null,
+                        "timed": null,
+                        "id": "krEZjV0daMqmpHNoh78PH",
+                        "props": {
+                          "highlight": false,
+                          "bold": true,
+                          "italic": false,
+                          "underline": false,
+                          "textSize": "h6",
+                          "textAlign": "left",
+                          "textColor": ""
+                        },
+                        "opts": {},
+                        "textContent": "Getting Support",
+                        "disabled": false
+                      }
+                    ],
+                    "timed": null,
+                    "props": {
+                      "pl": null,
+                      "pr": null,
+                      "pt": null,
+                      "pb": null,
+                      "ml": null,
+                      "mr": null,
+                      "mt": null,
+                      "mb": null
+                    },
+                    "opts": {},
+                    "id": "r_TrV21ylu5BgRjGZDiv3",
+                    "childProps": {},
+                    "disabled": false
+                  },
+                  {
+                    "type": "box",
+                    "name": null,
+                    "children": [
+                      {
+                        "type": "content",
+                        "name": "Content",
+                        "children": null,
+                        "timed": null,
+                        "props": {},
+                        "opts": {},
+                        "htmlContent": "<p>Once you login to the members area, you will find videos to help you get started. If however, you are not able to login, or get stuck along the way, please let us know! We have a support desk, and are ready to help you out. When creating your support ticket, please use the same email you used during the checkout, if possible (makes it easier for us to locate you faster!).<span class=\"ql-cursor\">﻿﻿</span></p>",
+                        "id": "XcOhvVydcy8qqBnQEHj8A",
+                        "disabled": false
+                      }
+                    ],
+                    "timed": null,
+                    "props": {
+                      "pl": null,
+                      "pr": null,
+                      "pt": null,
+                      "pb": null,
+                      "ml": null,
+                      "mr": null,
+                      "mt": null,
+                      "mb": null
+                    },
+                    "opts": {},
+                    "id": "wVZbs6W2Q9Kjw2eVMqU3z",
+                    "childProps": {},
+                    "disabled": false
+                  },
+                  {
+                    "type": "box",
+                    "name": null,
+                    "children": [
+                      {
+                        "type": "btn",
+                        "name": "Button",
+                        "children": null,
+                        "timed": null,
+                        "props": {
+                          "color": "",
+                          "openNew": true,
+                          "checkout": false,
+                          "size": "",
+                          "href": "https://"
+                        },
+                        "opts": {},
+                        "textContent": "Open Support Desk",
+                        "id": "-AkjeIRJvgsIDALCDtsYN",
+                        "disabled": false
+                      }
+                    ],
+                    "timed": null,
+                    "props": {
+                      "pl": null,
+                      "pr": null,
+                      "pt": null,
+                      "pb": null,
+                      "ml": null,
+                      "mr": null,
+                      "mt": null,
+                      "mb": null
+                    },
+                    "opts": {},
+                    "id": "aUR7hZpXVt9sB249vXU6F",
+                    "childProps": {},
+                    "disabled": false
+                  }
+                ],
+                "timed": null,
+                "props": {
+                  "pl": 0,
+                  "pr": 0,
+                  "pt": 0,
+                  "pb": 0,
+                  "ml": null,
+                  "mr": null,
+                  "mt": null,
+                  "mb": null,
+                  "elevation": 0
+                },
+                "opts": {},
+                "id": "6LseVhdyoCZX4I4FIPZWh",
+                "childProps": {
+                  "cols": 12
+                },
+                "disabled": false
+              }
+            ],
+            "timed": null,
+            "props": {
+              "pl": null,
+              "pr": null,
+              "pt": null,
+              "pb": null,
+              "ml": null,
+              "mr": null,
+              "mt": null,
+              "mb": null
+            },
+            "opts": {},
+            "id": "JwXMDgOsaLWg2wr5Xix9C",
+            "childProps": {
+              "mb": 0
+            },
+            "disabled": false
+          }
+        ],
+        "timed": null,
+        "props": {
+          "pl": null,
+          "pr": null,
+          "pt": null,
+          "pb": null,
+          "ml": null,
+          "mr": null,
+          "mt": null,
+          "mb": null,
+          "pa": null,
+          "my": null,
+          "elevation": null,
+          "color": ""
+        },
+        "opts": {},
+        "id": "RbxNYj9sRMLhYXnC5Q1Yr",
+        "disabled": false
+      },
+      {
+        "type": "footer",
+        "name": null,
+        "children": [
+          {
+            "type": "box",
+            "name": null,
+            "children": [
+              {
+                "type": "links",
+                "name": null,
+                "children": [
+                  {
+                    "type": "btn",
+                    "name": "Button",
+                    "children": null,
+                    "timed": null,
+                    "props": {
+                      "color": "",
+                      "checkout": false,
+                      "openNew": true
+                    },
+                    "opts": {},
+                    "textContent": "Terms",
+                    "id": "GyZWD9ITTtiyR5---DaO2",
+                    "disabled": false
+                  },
+                  {
+                    "type": "btn",
+                    "name": "Button",
+                    "children": null,
+                    "timed": null,
+                    "props": {
+                      "color": "",
+                      "checkout": false,
+                      "openNew": true
+                    },
+                    "opts": {},
+                    "textContent": "Privacy",
+                    "id": "mlfQlmXYiHtSdNZ3yjvMU",
+                    "disabled": false
+                  },
+                  {
+                    "type": "btn",
+                    "name": "Button",
+                    "children": null,
+                    "timed": null,
+                    "props": {
+                      "color": "",
+                      "checkout": false,
+                      "openNew": true
+                    },
+                    "opts": {},
+                    "textContent": "Disclaimer",
+                    "id": "P9hh8gctzrgAA_vFdgA4v",
+                    "disabled": false
+                  }
+                ],
+                "timed": null,
+                "props": {
+                  "justify": "center",
+                  "align": "center"
+                },
+                "opts": {},
+                "childProps": {
+                  "color": "",
+                  "variant": "text",
+                  "mx": 0,
+                  "my": 0
+                },
+                "id": "dOWEQbq6BX2PV3UGgqLgr",
+                "disabled": false
+              }
+            ],
+            "timed": null,
+            "props": {
+              "pl": null,
+              "pr": null,
+              "pt": null,
+              "pb": null,
+              "ml": null,
+              "mr": null,
+              "mt": null,
+              "mb": null
+            },
+            "opts": {},
+            "id": "Ds0BGFtrCmdJCmnwZsJXw",
+            "childProps": {},
+            "disabled": false
+          },
+          {
+            "type": "box",
+            "name": null,
+            "children": [
+              {
+                "type": "text",
+                "name": "Text",
+                "children": null,
+                "timed": null,
+                "id": "3bzSFamt-qG04h8Ijz1Iz",
+                "props": {
+                  "textSize": "caption",
+                  "textAlign": "center",
+                  "highlight": false,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "textColor": ""
+                },
+                "opts": {},
+                "textContent": "Copyright ©",
+                "disabled": false
+              }
+            ],
+            "timed": null,
+            "props": {
+              "pl": 0,
+              "pr": 0,
+              "pt": 0,
+              "pb": 0,
+              "ml": null,
+              "mr": null,
+              "mt": null,
+              "mb": null,
+              "elevation": 0
+            },
+            "opts": {},
+            "id": "qAn9m-agkRhpb0Tvem4nN",
+            "childProps": {},
+            "disabled": false
+          }
+        ],
+        "timed": null,
+        "id": "5FS6ntFMl3KnKgqS5htbH",
+        "opts": {},
+        "props": {
+          "pl": 0,
+          "pr": 0,
+          "pt": 0,
+          "pb": 0,
+          "elevation": 0
+        },
+        "childProps": {
+          "cols": 12
+        },
+        "disabled": false
+      }
+    ]
+  }
+}

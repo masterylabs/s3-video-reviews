@@ -1,0 +1,622 @@
+{
+  "page_type": "legal",
+  "name": "Legal Page",
+  "meta": {},
+  "theme": {
+    "color": "#2962ff",
+    "dark": false,
+    "spaceY": 2,
+    "myMd": 2,
+    "pa": 2,
+    "blockPadding": 2,
+    "boxPaddingY": 2,
+    "boxSpaceY": 2,
+    "elevation": 4,
+    "isFluid": false,
+    "fillHeight": true,
+    "useMaxWidth": false,
+    "maxWidth": 500,
+    "nudgeUp": true,
+    "rounded": "lg"
+  },
+  "bg": {
+    "color": "#f5f5f5",
+    "src": "",
+    "mobiSrc": "",
+    "filter": "",
+    "position": "center center"
+  },
+  "seo": {
+    "title": "",
+    "image": "",
+    "description": "",
+    "keywords": "",
+    "sponsored": false,
+    "nofollow": false,
+    "noindex": false
+  },
+  "opts": {
+    "theme": false,
+    "footer": false,
+    "bg:": false,
+    "advanced": true
+  },
+  "body": {
+    "type": "body",
+    "props": {},
+    "opts": {},
+    "children": [
+      {
+        "type": "main",
+        "name": null,
+        "children": [
+          {
+            "type": "section",
+            "name": null,
+            "children": [
+              {
+                "type": "block",
+                "name": "Terms and Conditions",
+                "children": [
+                  {
+                    "type": "box",
+                    "name": null,
+                    "children": [
+                      {
+                        "type": "text",
+                        "name": "Text",
+                        "children": null,
+                        "timed": null,
+                        "id": "fKFSr7YbAFCGkRAjh8N51",
+                        "props": {
+                          "highlight": false,
+                          "bold": false,
+                          "italic": false,
+                          "underline": false,
+                          "textSize": "h5",
+                          "textAlign": "left",
+                          "textColor": ""
+                        },
+                        "opts": {},
+                        "textContent": "Terms and Conditions",
+                        "disabled": false
+                      }
+                    ],
+                    "timed": null,
+                    "props": {
+                      "pl": null,
+                      "pr": null,
+                      "pt": null,
+                      "pb": null,
+                      "ml": null,
+                      "mr": null,
+                      "mt": null,
+                      "mb": null
+                    },
+                    "opts": {},
+                    "id": "Ux0ciwFLRbC_gi4_ihSUp",
+                    "childProps": {},
+                    "disabled": false
+                  },
+                  {
+                    "type": "box",
+                    "name": null,
+                    "children": [
+                      {
+                        "type": "content",
+                        "name": "Content",
+                        "children": null,
+                        "timed": null,
+                        "props": {},
+                        "opts": {},
+                        "htmlContent": "<p>Our terms and conditions...</p><p><br></p>",
+                        "id": "W8z5CfIjiXjVLwt_tZ1hQ",
+                        "disabled": false
+                      }
+                    ],
+                    "timed": null,
+                    "props": {
+                      "pl": null,
+                      "pr": null,
+                      "pt": null,
+                      "pb": null,
+                      "ml": null,
+                      "mr": null,
+                      "mt": null,
+                      "mb": null
+                    },
+                    "opts": {},
+                    "id": "OkvmRNV_Y6pBD3f1PChRV",
+                    "childProps": {},
+                    "disabled": false
+                  }
+                ],
+                "timed": null,
+                "props": {
+                  "pl": 0,
+                  "pr": 0,
+                  "pt": 0,
+                  "pb": 0,
+                  "ml": null,
+                  "mr": null,
+                  "mt": null,
+                  "mb": null,
+                  "elevation": 0
+                },
+                "opts": {},
+                "id": "C5SjIZq2xMMOeXrsEHD9j",
+                "childProps": {
+                  "cols": 12
+                },
+                "disabled": false
+              },
+              {
+                "type": "block",
+                "name": "Terms of Service",
+                "children": [
+                  {
+                    "type": "box",
+                    "name": null,
+                    "children": [
+                      {
+                        "type": "text",
+                        "name": "Text",
+                        "children": null,
+                        "timed": null,
+                        "id": "VfAxM6I3xAul0ElvxkQ5i",
+                        "props": {
+                          "highlight": false,
+                          "bold": false,
+                          "italic": false,
+                          "underline": false,
+                          "textSize": "h5",
+                          "textAlign": "left",
+                          "textColor": ""
+                        },
+                        "opts": {},
+                        "textContent": "Terms of Service",
+                        "disabled": false
+                      }
+                    ],
+                    "timed": null,
+                    "props": {
+                      "pl": null,
+                      "pr": null,
+                      "pt": null,
+                      "pb": null,
+                      "ml": null,
+                      "mr": null,
+                      "mt": null,
+                      "mb": null
+                    },
+                    "opts": {},
+                    "id": "IChKOupaYJwRN4q3jreK_",
+                    "childProps": {},
+                    "disabled": false
+                  },
+                  {
+                    "type": "box",
+                    "name": null,
+                    "children": [
+                      {
+                        "type": "content",
+                        "name": "Content",
+                        "children": null,
+                        "timed": null,
+                        "props": {},
+                        "opts": {},
+                        "htmlContent": "<p>Our terms of service...</p><p><br></p>",
+                        "id": "gVt6O7ar7z1U4f4dmg9Mu",
+                        "disabled": false
+                      }
+                    ],
+                    "timed": null,
+                    "props": {
+                      "pl": null,
+                      "pr": null,
+                      "pt": null,
+                      "pb": null,
+                      "ml": null,
+                      "mr": null,
+                      "mt": null,
+                      "mb": null
+                    },
+                    "opts": {},
+                    "id": "CRZZfXtxqaMMJxMVOCerg",
+                    "childProps": {},
+                    "disabled": false
+                  }
+                ],
+                "timed": null,
+                "props": {
+                  "pl": 0,
+                  "pr": 0,
+                  "pt": 0,
+                  "pb": 0,
+                  "ml": null,
+                  "mr": null,
+                  "mt": null,
+                  "mb": null,
+                  "elevation": 0
+                },
+                "opts": {},
+                "id": "JuU6FWrxGpmjIVewbvf77",
+                "childProps": {
+                  "cols": 12
+                },
+                "disabled": false
+              },
+              {
+                "type": "block",
+                "name": "User Agreement",
+                "children": [
+                  {
+                    "type": "box",
+                    "name": null,
+                    "children": [
+                      {
+                        "type": "text",
+                        "name": "Text",
+                        "children": null,
+                        "timed": null,
+                        "id": "e6Oc0Oxyqn7UVzHeg5pP-",
+                        "props": {
+                          "highlight": false,
+                          "bold": false,
+                          "italic": false,
+                          "underline": false,
+                          "textSize": "h5",
+                          "textAlign": "left",
+                          "textColor": ""
+                        },
+                        "opts": {},
+                        "textContent": "User Agreement",
+                        "disabled": false
+                      }
+                    ],
+                    "timed": null,
+                    "props": {
+                      "pl": null,
+                      "pr": null,
+                      "pt": null,
+                      "pb": null,
+                      "ml": null,
+                      "mr": null,
+                      "mt": null,
+                      "mb": null
+                    },
+                    "opts": {},
+                    "id": "BwbSvK_4wg9uXSy2tWCrh",
+                    "childProps": {},
+                    "disabled": false
+                  },
+                  {
+                    "type": "box",
+                    "name": null,
+                    "children": [
+                      {
+                        "type": "content",
+                        "name": "Content",
+                        "children": null,
+                        "timed": null,
+                        "props": {},
+                        "opts": {},
+                        "htmlContent": "<p>Our user agreement...</p><p><br></p>",
+                        "id": "XmGazg7tHK_oQblvpUofN",
+                        "disabled": false
+                      }
+                    ],
+                    "timed": null,
+                    "props": {
+                      "pl": null,
+                      "pr": null,
+                      "pt": null,
+                      "pb": null,
+                      "ml": null,
+                      "mr": null,
+                      "mt": null,
+                      "mb": null
+                    },
+                    "opts": {},
+                    "id": "eAc-_Ir_0YA8lJu6EDk9Q",
+                    "childProps": {},
+                    "disabled": false
+                  }
+                ],
+                "timed": null,
+                "props": {
+                  "pl": 0,
+                  "pr": 0,
+                  "pt": 0,
+                  "pb": 0,
+                  "ml": null,
+                  "mr": null,
+                  "mt": null,
+                  "mb": null,
+                  "elevation": 0
+                },
+                "opts": {},
+                "id": "K9apUbvfYc1451THmEsKe",
+                "childProps": {
+                  "cols": 12
+                },
+                "disabled": false
+              },
+              {
+                "type": "block",
+                "name": "Privacy Policy",
+                "children": [
+                  {
+                    "type": "box",
+                    "name": null,
+                    "children": [
+                      {
+                        "type": "text",
+                        "name": "Text",
+                        "children": null,
+                        "timed": null,
+                        "id": "81MCRVpnBByPK-4BACHqH",
+                        "props": {
+                          "highlight": false,
+                          "bold": false,
+                          "italic": false,
+                          "underline": false,
+                          "textSize": "h5",
+                          "textAlign": "left",
+                          "textColor": ""
+                        },
+                        "opts": {},
+                        "textContent": "Privacy Policy",
+                        "disabled": false
+                      }
+                    ],
+                    "timed": null,
+                    "props": {
+                      "pl": null,
+                      "pr": null,
+                      "pt": null,
+                      "pb": null,
+                      "ml": null,
+                      "mr": null,
+                      "mt": null,
+                      "mb": null
+                    },
+                    "opts": {},
+                    "id": "FMF5N1KuEOJRIabmiu9iq",
+                    "childProps": {},
+                    "disabled": false
+                  },
+                  {
+                    "type": "box",
+                    "name": null,
+                    "children": [
+                      {
+                        "type": "content",
+                        "name": "Content",
+                        "children": null,
+                        "timed": null,
+                        "props": {},
+                        "opts": {},
+                        "htmlContent": "<p>Our privacy policy...</p><p><br></p>",
+                        "id": "rUyz62UlXnGSu60tZqhUY",
+                        "disabled": false
+                      }
+                    ],
+                    "timed": null,
+                    "props": {
+                      "pl": null,
+                      "pr": null,
+                      "pt": null,
+                      "pb": null,
+                      "ml": null,
+                      "mr": null,
+                      "mt": null,
+                      "mb": null
+                    },
+                    "opts": {},
+                    "id": "AaNRwren5oD-h-MGd1Jno",
+                    "childProps": {},
+                    "disabled": false
+                  }
+                ],
+                "timed": null,
+                "props": {
+                  "pl": 0,
+                  "pr": 0,
+                  "pt": 0,
+                  "pb": 0,
+                  "ml": null,
+                  "mr": null,
+                  "mt": null,
+                  "mb": null,
+                  "elevation": 0
+                },
+                "opts": {},
+                "id": "TpiDUvQ2uA-61iqxs5FfV",
+                "childProps": {
+                  "cols": 12
+                },
+                "disabled": false
+              }
+            ],
+            "timed": null,
+            "props": {
+              "pl": null,
+              "pr": null,
+              "pt": null,
+              "pb": null,
+              "ml": null,
+              "mr": null,
+              "mt": null,
+              "mb": null
+            },
+            "opts": {},
+            "id": "L4e3e9yL8QpVkpn7bKDGo",
+            "childProps": {},
+            "disabled": false
+          }
+        ],
+        "timed": null,
+        "props": {
+          "pl": null,
+          "pr": null,
+          "pt": null,
+          "pb": null,
+          "ml": null,
+          "mr": null,
+          "mt": null,
+          "mb": null,
+          "pa": 0,
+          "my": 0,
+          "elevation": null,
+          "rounded": "",
+          "color": ""
+        },
+        "opts": {},
+        "id": "WfRTGU41k6MvHDAo6U8Ru",
+        "disabled": false
+      },
+      {
+        "type": "footer",
+        "name": null,
+        "children": [
+          {
+            "type": "box",
+            "name": null,
+            "children": [
+              {
+                "type": "links",
+                "name": null,
+                "children": [
+                  {
+                    "type": "btn",
+                    "name": "Button",
+                    "children": null,
+                    "timed": null,
+                    "props": {
+                      "color": ""
+                    },
+                    "opts": {},
+                    "textContent": "Link 1",
+                    "id": "GyZWD9ITTtiyR5---DaO2",
+                    "disabled": false
+                  },
+                  {
+                    "type": "btn",
+                    "name": "Button",
+                    "children": null,
+                    "timed": null,
+                    "props": {
+                      "color": ""
+                    },
+                    "opts": {},
+                    "textContent": "Link 2",
+                    "id": "mlfQlmXYiHtSdNZ3yjvMU",
+                    "disabled": false
+                  },
+                  {
+                    "type": "btn",
+                    "name": "Button",
+                    "children": null,
+                    "timed": null,
+                    "props": {
+                      "color": ""
+                    },
+                    "opts": {},
+                    "textContent": "Link 3",
+                    "id": "P9hh8gctzrgAA_vFdgA4v",
+                    "disabled": false
+                  }
+                ],
+                "timed": null,
+                "props": {
+                  "justify": "center",
+                  "align": "center"
+                },
+                "opts": {},
+                "childProps": {
+                  "color": "",
+                  "variant": "text",
+                  "mx": 0,
+                  "my": 0
+                },
+                "id": "dOWEQbq6BX2PV3UGgqLgr",
+                "disabled": false
+              }
+            ],
+            "timed": null,
+            "props": {
+              "pl": null,
+              "pr": null,
+              "pt": null,
+              "pb": null,
+              "ml": null,
+              "mr": null,
+              "mt": null,
+              "mb": null
+            },
+            "opts": {},
+            "id": "Ds0BGFtrCmdJCmnwZsJXw",
+            "childProps": {},
+            "disabled": false
+          },
+          {
+            "type": "box",
+            "name": null,
+            "children": [
+              {
+                "type": "text",
+                "name": "Text",
+                "children": null,
+                "timed": null,
+                "id": "3bzSFamt-qG04h8Ijz1Iz",
+                "props": {
+                  "textSize": "caption",
+                  "textAlign": "center",
+                  "highlight": false,
+                  "bold": false,
+                  "italic": false,
+                  "underline": false,
+                  "textColor": ""
+                },
+                "opts": {},
+                "textContent": "Copyright ©",
+                "disabled": false
+              }
+            ],
+            "timed": null,
+            "props": {
+              "pl": 0,
+              "pr": 0,
+              "pt": 0,
+              "pb": 0,
+              "ml": null,
+              "mr": null,
+              "mt": null,
+              "mb": null,
+              "elevation": 0
+            },
+            "opts": {},
+            "id": "qAn9m-agkRhpb0Tvem4nN",
+            "childProps": {},
+            "disabled": false
+          }
+        ],
+        "timed": null,
+        "id": "5FS6ntFMl3KnKgqS5htbH",
+        "opts": {},
+        "props": {
+          "pl": 0,
+          "pr": 0,
+          "pt": 0,
+          "pb": 0,
+          "elevation": 0
+        },
+        "childProps": {
+          "cols": 12
+        },
+        "disabled": true
+      }
+    ]
+  }
+}

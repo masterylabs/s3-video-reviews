@@ -1,0 +1,25 @@
+$border-radius-root: 0.25rem;
+
+.rounded-0 {
+  border-radius: 0;
+}
+.rounded-sm {
+  border-radius: $border-radius-root / 2;
+}
+.rounded-lg {
+  border-radius: $border-radius-root * 2;
+}
+.rounded-xl {
+  border-radius: $border-radius-root * 6;
+}
+.rounded-pill {
+  border-radius: 9999px;
+}
+.rounded-circle {
+  border-radius: 50%;
+}
+
+// default
+div {
+  border-radius: $border-radius-root;
+}

@@ -1,0 +1,36 @@
+{
+  "id": "welcome_1599037579282_4",
+  "name": "welcome",
+  "auth": {
+    "active": false,
+    "access": []
+  },
+  "schedule": {
+    "video": {
+      "active": false
+    },
+    "date": {
+      "active": false
+    },
+    "page": {
+      "active": false
+    }
+  },
+  "container": {
+    "spacing": {}
+  },
+  "wrapper": {
+    "spacing": {}
+  },
+  "content": {
+    "heading": {
+      "text": "Welcome To {business.name}"
+    },
+    "subheading": {
+      "text": "Rebuilding Relationships. Meeting you where you're at..."
+    },
+    "content": {
+      "html": "<p>The aim of Ginosko Rebuilding Relationship is to heal relationships. I &lsquo;m here to provide you with the most effective integrated evidence based couples counseling, primarily drawing from Gottman's forty years of research proven to transform relationships: Reaching you where you&rsquo;re at and help take you where you want to be.</p><p>I believe couples can come to know each other in a new light, work through their differences and establish a solid relationship that can handle any challenge that comes their way. This we can do together through integrative therapy proven to heal and grow relationships.</p>"
+    }
+  }
+}

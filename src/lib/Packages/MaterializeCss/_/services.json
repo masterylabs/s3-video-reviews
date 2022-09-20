@@ -1,0 +1,119 @@
+{
+  "id": "services_1599037735465_8",
+  "name": "services",
+  "auth": {
+    "active": false,
+    "access": []
+  },
+  "schedule": {
+    "video": {
+      "active": false
+    },
+    "date": {
+      "active": false
+    },
+    "page": {
+      "active": false
+    }
+  },
+  "container": {
+    "spacing": {}
+  },
+  "wrapper": {
+    "spacing": {}
+  },
+  "content": {
+    "cols": {
+      "col": "",
+      "sm": "12",
+      "md": "6",
+      "lg": "4"
+    },
+    "heading": {
+      "text": "{business.name} Services",
+      "elevation": 0,
+      "color": "#FFFFFFFF"
+    },
+    "subheading": {
+      "text": "We are here to serve you...",
+      "elevation": 0,
+      "color": "#FFFFFFFF"
+    },
+    "content": {
+      "text": "Here are our services..."
+    },
+    "items": [
+      {
+        "id": "service_1593677127881",
+        "title": {
+          "text": "Couples Marathons"
+        },
+        "img": {
+          "src": "http://dev-wp.test/wp-content/uploads/2022/03/marathon.webp"
+        },
+        "content": {
+          "html": "<p>We offer one or two day Couples Marathons, a highly vigorous and intensive process where couples are afforded the opportunity to delve deep into their relationship issues in a confidential non judgemental environment without the time restrictions you would normally have in a standard 60-90 minute couples session. Marathons provide a way for you to fast track your therapy, compacting 12 weeks of traditional weekly therapy into just two full days.</p>"
+        },
+        "primaryAction": {
+          "text": "Call Now!",
+          "value": "contact-us"
+        },
+        "secondaryAction": {
+          "text": "Read More",
+          "value": "read-more"
+        },
+        "col": {
+          "md": "12",
+          "lg": ""
+        }
+      },
+      {
+        "id": "service_1593677106981",
+        "title": {
+          "text": "Couples Therapy"
+        },
+        "img": {
+          "src": "http://dev-wp.test/wp-content/uploads/2022/03/couples-counselling.webp"
+        },
+        "content": {
+          "html": "<p>Do you feel that your relationship is on the verge of collapse? Perhaps trust has been breached or the effects of work are eroding your relationship. Perhaps you are feeling stuck and experiencing relationship distress?</p>"
+        },
+        "primaryAction": {
+          "text": "Call Now!",
+          "value": "contact-us"
+        },
+        "secondaryAction": {
+          "text": "Read More",
+          "value": "read-more"
+        },
+        "col": {
+          "lg": ""
+        }
+      },
+      {
+        "id": "service_1593677155823",
+        "title": {
+          "text": "Bringing Baby Home Workshop"
+        },
+        "img": {
+          "src": "http://dev-wp.test/wp-content/uploads/2022/03/bring-baby-home-workshop.webp"
+        },
+        "content": {
+          "html": "<p>Bringing Baby Home workshop is for expectant couples and parents of infants. This workshop is a Research based Psycho-educational 1 day workshop for those expecting a baby(s) and for new parents who are in the process of transition into parenthood.</p>"
+        },
+        "primaryAction": {
+          "text": "Call Now!",
+          "value": "contact-us"
+        },
+        "secondaryAction": {
+          "text": "Read More",
+          "value": "read-more"
+        },
+        "col": {
+          "lg": ""
+        }
+      }
+    ]
+  },
+  "color": "#1565C0FF"
+}

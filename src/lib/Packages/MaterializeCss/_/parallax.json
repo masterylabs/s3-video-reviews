@@ -1,0 +1,56 @@
+{
+  "id": "parallax_1599037916245_12",
+  "name": "parallax",
+  "auth": { "active": false, "access": [] },
+  "schedule": {
+    "video": { "active": false },
+    "date": { "active": false },
+    "page": { "active": false }
+  },
+  "container": {
+    "spacing": {},
+    "elevation": 0,
+    "dark": true,
+    "fluid": true,
+    "noGutters": true
+  },
+  "wrapper": { "spacing": {}, "elevation": 0 },
+  "noContentSpacing": true,
+  "content": {
+    "img": {
+      "src": "https://images.unsplash.com/photo-1501631259223-89d4e246ed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1520&q=80",
+      "alt": "Rebuilding Relationships Couple"
+    },
+    "parallax": true,
+    "matchHeight": false,
+    "height": 381,
+    "heading": {
+      "heading": {
+        "marginX": 0,
+        "marginY": 0,
+        "paddingX": 0,
+        "paddingY": 0,
+        "elevation": 0,
+        "text": "{business.slogan}",
+        "textSize": "h3"
+      },
+      "subheading": {
+        "marginX": 0,
+        "marginY": 0,
+        "paddingX": 0,
+        "paddingY": 0,
+        "elevation": 0,
+        "text": "{contact.name}",
+        "textSize": "h6"
+      },
+      "advanced": false,
+      "text": "\"The best and most beautiful things in the world cannot be seen or even heard, but must be felt with the heart.\"",
+      "textSize": "h4"
+    },
+    "subheading": { "text": "\u2014Helen Keller" },
+    "downArrow": true,
+    "to": ""
+  },
+  "noPageSpacingY": true,
+  "noPageSpacingX": true
+}

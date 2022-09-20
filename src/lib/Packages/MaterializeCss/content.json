@@ -1,0 +1,582 @@
+{
+  "setup": {
+    "business": {
+      "name": "Ginosko",
+      "slogan": "Rebuilding Relationships",
+      "phone": "0422 851 670",
+      "phone_number": "+61422851670",
+      "location": "Geelong, Australia",
+      "logo": "https://ginoskocounselling.com/img/logo-temp.2340367b.png"
+    },
+    "social": {},
+    "actionBanner": {
+      "width": 200,
+      "elevation": 9,
+      "active": true,
+      "title": "Hi, Lets Talk!",
+      "text": "Call me on {business.phone}",
+      "footer": "{business.location}",
+      "buttonText": "Call Now!",
+      "mobileButtonText": "Tap To Call!",
+      "icon": "phone",
+      "image": "{contact.avatar}",
+      "showButtonOnDesktop": true,
+      "button": { "text": "Call Now!" },
+      "buttonIcon": "phone",
+      "buttonColor": "#81D4FAFF",
+      "dark": false
+    },
+    "contact": {
+      "avatar": "https://ginoskocounselling.com/images/dr-rachel.jpg",
+      "name": "Rachel Graves"
+    },
+    "seo": {
+      "favicon": "https://ginoskocounselling.com/img/logo-temp.2340367b.png",
+      "title": "Ginosko",
+      "description": "Rebuilding Relationships",
+      "keywords": "couples counselling,ginosko counselling,first responders therepy"
+    },
+    "og": {
+      "title": "Ginosko",
+      "description": "Rebuilding Relationships",
+      "image": "https://ginoskocounselling.com/img/logo-temp.2340367b.png"
+    },
+    "tracking": {}
+  },
+  "theme": {
+    "contentSpacingY": 12,
+    "contentSpacingX": 0,
+    "marginX": 0,
+    "marginY": 0,
+    "elevation": 0,
+    "heading": {
+      "textSize": "h3",
+      "textAlign": "center",
+      "elevation": 0,
+      "mb": "4",
+      "color": ""
+    },
+    "subheading": {
+      "textSize": "h5",
+      "textAlign": "center",
+      "elevation": 0,
+      "mb": "6",
+      "backgroundColor": "",
+      "color": ""
+    },
+    "color": ""
+  },
+  "blocks": [
+    {
+      "id": "header_1599037335030_1",
+      "name": "header",
+      "auth": { "active": false, "access": [] },
+      "schedule": {
+        "video": { "active": false },
+        "date": { "active": false },
+        "page": { "active": false }
+      },
+      "container": { "spacing": {} },
+      "wrapper": { "spacing": {} },
+      "noPageSpacingY": true,
+      "noPageSpacingX": true,
+      "content": {
+        "options": { "img": true, "actionBanner": true, "button": false },
+        "name": { "text": "{business.name}" },
+        "slogan": { "text": "{business.slogan}" },
+        "img": { "src": "{business.logo}" },
+        "button": {
+          "img": {},
+          "elevation": 0,
+          "ml": 0,
+          "mr": 0,
+          "mt": 0,
+          "mb": 0,
+          "text": "{business.phone}",
+          "icon": "phone",
+          "to_name": "url",
+          "to_value": "tel:0000000"
+        },
+        "button2": {},
+        "heading": {
+          "heading": {
+            "marginX": 0,
+            "marginY": 0,
+            "paddingX": 0,
+            "paddingY": 0,
+            "elevation": 0,
+            "text": "{business.name}",
+            "textSize": "h4"
+          },
+          "subheading": {
+            "marginX": 0,
+            "marginY": 0,
+            "paddingX": 0,
+            "paddingY": 0,
+            "elevation": 0,
+            "text": "{business.slogan}"
+          },
+          "advanced": false
+        }
+      }
+    },
+    {
+      "id": "navbar_1599037515599_2",
+      "name": "navbar",
+      "auth": { "active": false, "access": [] },
+      "schedule": {
+        "video": { "active": false },
+        "date": { "active": false },
+        "page": { "active": false }
+      },
+      "container": { "spacing": {}, "noGutters": true, "elevation": 0 },
+      "wrapper": { "spacing": {}, "elevation": 8 },
+      "noContentSpacing": true,
+      "content": {
+        "options": {
+          "primaryButton": false,
+          "secondaryButton": false,
+          "spacingY": 4,
+          "paddingX": 4
+        },
+        "toolbar": { "flat": true, "color": "" },
+        "button": {},
+        "primaryButton": {
+          "text": "Register",
+          "ml": 2,
+          "dark": true,
+          "depressed": true
+        },
+        "secondaryButton": {
+          "text": "Login",
+          "ml": 2,
+          "dark": true,
+          "outlined": true
+        },
+        "items": [
+          {
+            "text": "Welcome",
+            "children": [],
+            "id": "link_navbar_1",
+            "clickAction": "section",
+            "section": "welcome_1599037579282_4"
+          },
+          {
+            "text": "Services",
+            "value": "",
+            "url": "",
+            "children": [],
+            "id": "link_navbar_2",
+            "clickAction": "section",
+            "section": "services_1599037735465_8"
+          },
+          {
+            "text": "Couples Marathon",
+            "clickAction": "section",
+            "section": "services_1599037735465_8",
+            "children": [],
+            "id": "link_1599044952585_18"
+          },
+          {
+            "text": "About Us",
+            "clickAction": "section",
+            "section": "author_1599037998102_13",
+            "children": [],
+            "id": "link_1599044969728_19"
+          },
+          {
+            "text": "FAQs",
+            "clickAction": "section",
+            "section": "faqs_1599038050172_15",
+            "children": [],
+            "id": "link_1599044980157_20"
+          }
+        ],
+        "flat": true,
+        "alignLinks": "left"
+      },
+      "noPageSpacingY": true,
+      "noPageSpacingX": true
+    },
+    {
+      "id": "hero_1599037523939_3",
+      "name": "hero",
+      "auth": { "active": false, "access": [] },
+      "schedule": {
+        "video": { "active": false },
+        "date": { "active": false },
+        "page": { "active": false }
+      },
+      "container": {
+        "spacing": {},
+        "elevation": 0,
+        "dark": true,
+        "fluid": true,
+        "noGutters": true
+      },
+      "wrapper": { "spacing": {}, "elevation": 0 },
+      "noContentSpacing": true,
+      "content": {
+        "img": {
+          "src": "https://ginoskocounselling.com/images/ginosko-cover.jpg"
+        },
+        "parallax": false,
+        "matchHeight": false,
+        "height": 715,
+        "heading": {
+          "heading": {
+            "marginX": 0,
+            "marginY": 0,
+            "paddingX": 0,
+            "paddingY": 0,
+            "elevation": 0,
+            "text": "{business.slogan}",
+            "textSize": "h3"
+          },
+          "subheading": {
+            "marginX": 0,
+            "marginY": 0,
+            "paddingX": 0,
+            "paddingY": 0,
+            "elevation": 0,
+            "text": "{contact.name}",
+            "textSize": "h6"
+          },
+          "advanced": false,
+          "text": "Rebuilding Relationships",
+          "textSize": "h3"
+        },
+        "subheading": { "text": "" },
+        "downArrow": true,
+        "to": "welcome"
+      },
+      "noPageSpacingY": true,
+      "noPageSpacingX": true
+    },
+    {
+      "id": "welcome_1599037579282_4",
+      "name": "welcome",
+      "auth": { "active": false, "access": [] },
+      "schedule": {
+        "video": { "active": false },
+        "date": { "active": false },
+        "page": { "active": false }
+      },
+      "container": { "spacing": {} },
+      "wrapper": { "spacing": {} },
+      "content": {
+        "heading": { "text": "Welcome To {business.name}" },
+        "subheading": {
+          "text": "Rebuilding Relationships. Meeting you where you're at..."
+        },
+        "content": {
+          "html": "<p>The aim of Ginosko Rebuilding Relationship is to heal relationships. I &lsquo;m here to provide you with the most effective integrated evidence based couples counseling, primarily drawing from Gottman's forty years of research proven to transform relationships: Reaching you where you&rsquo;re at and help take you where you want to be.</p><p>I believe couples can come to know each other in a new light, work through their differences and establish a solid relationship that can handle any challenge that comes their way. This we can do together through integrative therapy proven to heal and grow relationships.</p>"
+        }
+      }
+    },
+    {
+      "id": "services_1599037735465_8",
+      "name": "services",
+      "auth": { "active": false, "access": [] },
+      "schedule": {
+        "video": { "active": false },
+        "date": { "active": false },
+        "page": { "active": false }
+      },
+      "container": { "spacing": {} },
+      "wrapper": { "spacing": {} },
+      "content": {
+        "cols": { "col": "", "sm": "12", "md": "6", "lg": "4" },
+        "heading": {
+          "text": "{business.name} Services",
+          "elevation": 0,
+          "color": "#FFFFFFFF"
+        },
+        "subheading": {
+          "text": "We are here to serve you...",
+          "elevation": 0,
+          "color": "#FFFFFFFF"
+        },
+        "content": { "text": "Here are our services..." },
+        "items": [
+          {
+            "id": "service_1593677127881",
+            "title": { "text": "Couples Marathons" },
+            "img": {
+              "src": "https://ginoskocounselling.com/images/marathon.jpg"
+            },
+            "content": {
+              "html": "<p>We offer one or two day Couples Marathons, a highly vigorous and intensive process where couples are afforded the opportunity to delve deep into their relationship issues in a confidential non judgemental environment without the time restrictions you would normally have in a standard 60-90 minute couples session. Marathons provide a way for you to fast track your therapy, compacting 12 weeks of traditional weekly therapy into just two full days.</p><p>These intensives are ideal for working couples where time may be of essence. Our marathons are well suited for couples who may be dealing with additional relationship pressures and flow on effects from their work due vicarious trauma and / or compassion fatigue.</p><p>The frame work we use is purely evidence based therapy from over 40 years of Gottman research methods designed to rebuild weathered and torn relationships.</p><p>During marathons couples work through their difficulties, reshape their relationship by addressing their emotional injuries and learning to relate to each other differently through powerful conflict resolution strategies.</p><p>In a relatively short period of time couples can bring about needed change in resolving issues through effective interpersonal methods and psycho education on relationships. Couples are also provided with practical skills to carry on beyond therapy.</p><p>Our Couples Marathon provides you with an opportunity to heal from betrayal, restore lost connection, trust and commitment. Learn how to communicate in a way that brings you closer together reigniting your passion and strengthening your bond to one another.</p>"
+            },
+            "primaryAction": { "text": "Call Now!", "value": "contact-us" },
+            "secondaryAction": { "text": "Read More", "value": "read-more" },
+            "col": { "md": "12", "lg": "" }
+          },
+          {
+            "id": "service_1593677106981",
+            "title": { "text": "Couples Therapy" },
+            "img": {
+              "src": "https://ginoskocounselling.com/images/couples-counselling.jpg"
+            },
+            "content": {
+              "html": "<p>Do you feel that your relationship is on the verge of collapse? Perhaps trust has been breached or the effects of work are eroding your relationship. Perhaps you are feeling stuck and experiencing relationship distress?</p><p>Or do you simply want to grow together or go deeper into a knowledge of each other, building a purposeful life together that brings about mutually lasting satisfaction.</p><p>Couples Counselling can help to identify the problems that exist between you and your partner, help to define and communicate your emotional needs in your relationship and help to rebuild trust if it has been broken.</p><p>My purpose is to enable you as a couple to rebuild a relationship that brings about meaning and satisfaction. One that is able to weather a storm or any trial that comes your way. A relationship that enables you to share a rekindled passion which lights a warm, fulfilling and lasting connection with your partner.</p>"
+            },
+            "primaryAction": { "text": "Call Now!", "value": "contact-us" },
+            "secondaryAction": { "text": "Read More", "value": "read-more" },
+            "col": { "lg": "" }
+          },
+          {
+            "id": "service_1593677155823",
+            "title": { "text": "Bringing Baby Home Workshop" },
+            "img": {
+              "src": "https://ginoskocounselling.com/images/bring-baby-home-workshop.jpg"
+            },
+            "content": {
+              "html": "<p>Bringing Baby Home workshop is for expectant couples and parents of infants. This workshop is a Research based Psycho-educational 1 day workshop for those expecting a baby(s) and for new parents who are in the process of transition into parenthood.</p><p>The wonder of having a baby is precious yet a very vulnerable time for parents who may be feeling the added stressors and responsibilities in the midst of all the changes that begin to take place from the time they conceive.</p><p>Following the birth of your child the broken sleep starts to wear on you to already exhausted parents who are attending to their child&rsquo;s needs and find themselves sailing in the uncharted waters.</p><p>Parents often place high expectations on themselves and feel enormous pressure to provide more for their family. Gottman Research reveals that 69 percent of parents after their first year of parenting experience significant reduction in their relationship satisfaction due to increased conflict, disappointment and hurt feelings.</p>"
+            },
+            "primaryAction": { "text": "Call Now!", "value": "contact-us" },
+            "secondaryAction": { "text": "Read More", "value": "read-more" },
+            "col": { "lg": "" }
+          }
+        ]
+      },
+      "color": "#1565C0FF"
+    },
+    {
+      "id": "parallax_1599037916245_12",
+      "name": "parallax",
+      "auth": { "active": false, "access": [] },
+      "schedule": {
+        "video": { "active": false },
+        "date": { "active": false },
+        "page": { "active": false }
+      },
+      "container": {
+        "spacing": {},
+        "elevation": 0,
+        "dark": true,
+        "fluid": true,
+        "noGutters": true
+      },
+      "wrapper": { "spacing": {}, "elevation": 0 },
+      "noContentSpacing": true,
+      "content": {
+        "img": {
+          "src": "https://images.unsplash.com/photo-1501631259223-89d4e246ed23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1520&q=80"
+        },
+        "parallax": true,
+        "matchHeight": false,
+        "height": 381,
+        "heading": {
+          "heading": {
+            "marginX": 0,
+            "marginY": 0,
+            "paddingX": 0,
+            "paddingY": 0,
+            "elevation": 0,
+            "text": "{business.slogan}",
+            "textSize": "h3"
+          },
+          "subheading": {
+            "marginX": 0,
+            "marginY": 0,
+            "paddingX": 0,
+            "paddingY": 0,
+            "elevation": 0,
+            "text": "{contact.name}",
+            "textSize": "h6"
+          },
+          "advanced": false,
+          "text": "\"The best and most beautiful things in the world cannot be seen or even heard, but must be felt with the heart.\"",
+          "textSize": "h4"
+        },
+        "subheading": { "text": "\u2014Helen Keller" },
+        "downArrow": true,
+        "to": ""
+      },
+      "noPageSpacingY": true,
+      "noPageSpacingX": true
+    },
+    {
+      "id": "author_1599037998102_13",
+      "name": "author",
+      "auth": { "active": false, "access": [] },
+      "schedule": {
+        "video": { "active": false },
+        "date": { "active": false },
+        "page": { "active": false }
+      },
+      "container": { "spacing": {} },
+      "wrapper": { "spacing": {} },
+      "content": {
+        "avatar": { "tile": true },
+        "img": { "src": "{contact.avatar}" },
+        "heading": {
+          "text": "Hi I\u2019m Rachel Graves, Clinical Social Worker"
+        },
+        "subheading": {
+          "text": "Founder of Ginosko -Rebuilding Relationships",
+          "elevation": 0,
+          "backgroundColor": "",
+          "color": ""
+        },
+        "content": {
+          "html": "<h3 class=\"mb-4\">My Qualifications</h3><p>I am an Accredited Mental Health Social Worker with a Bachelor in Psychology and a Masters in Clinical Social Work from New Mexico Highland University, USA.</p><ul class=\"subtitle-1 mb-8\"><li>Full Membership and Accreditation with the Australian Association of Social Workers</li><li>Medicare and NDIS Registered Provider</li><li>Registered member of the Gottman Institute</li><li>Member of the Psychology Today</li><li>Over 12 years of clinical experience delivering evidence based therapy</li></ul><p>Full Membership and Accreditation with the Australian Association of Social Workers. Medicare and NDIS Registered Provider Registered member of the Gottman Institute Member of the Psychology Today Over 12 years of clinical experience delivering evidence based therapy</p><h3 class=\"mb-4 mt-8\">My Clinical skills &amp; background</h3><p>Highly experienced and skilled in delivering a range of evidence based therapies such as Eye movement Desensitization Reprocessing (EMDR), Dialectical Behavioural Therapy (DBT) including Trauma Focussed Cognitive Behavioral Therapy (TF-CBT) and Motivational Interviewing. Level 2 trained in Gottman&rsquo;s Couples Therapy.</p><p>I have extensive background in treating individuals, couples and families with a variety of issues (Relationship, life transitions, substance misuse, grief and loss etc). and clinical disorders; Post Traumatic Stress Disorder, Complex Trauma, Depression, Anxiety, Personality Disorders and substance dependence including other comorbid disorders using integrated evidence based therapies proven effective with individuals, couples &amp; families.</p><p>facilitated &amp; coordinated group programs while in the public and private mental health sector. Over the last twelve years I worked in both inpatient &amp; outpatient clinics including community outreach.</p>"
+        }
+      }
+    },
+    {
+      "id": "faqs_1599038050172_15",
+      "name": "faqs",
+      "auth": { "active": false, "access": [] },
+      "schedule": {
+        "video": { "active": false },
+        "date": { "active": false },
+        "page": { "active": false }
+      },
+      "container": { "spacing": {} },
+      "wrapper": { "spacing": {} },
+      "content": {
+        "heading": {
+          "text": "Ginosko FAQs",
+          "elevation": 0,
+          "color": "#FFFFFFFF"
+        },
+        "subheading": {},
+        "content": {},
+        "items": [
+          {
+            "id": "faq_1599038091783_17",
+            "title": { "text": "What is a Gottman Relationship Checkup" },
+            "content": {
+              "html": "<p>Gottman Relationship Checkup Is an extensive online assessment questionnaire for couples designed to assess the couples strengths, differences and areas of growth. It provides clinicians with clinical feedback and specific recommendations for treatment planning. The Gottman Relationship Checkup is essential in assisting and maximising your treatment outcomes.</p>"
+            },
+            "col": {}
+          },
+          {
+            "id": "faq_1599130264732_7",
+            "title": { "text": "How many sessions will we need?" },
+            "content": {
+              "html": "<p>Each couple will present with issues and needs which are different. It will be entirely up to each couple as to how long they wish to work on their relationship, what pace they travel at, and how to resolve their differences. Some couples may decide to try out with just a few weekly sessions while others may want to commit to 6-12 sessions. Some couples will plunge right into a one or two day Marathon to get the maximum impact. There is no right or wrong way.</p>"
+            },
+            "col": {}
+          },
+          {
+            "id": "faq_1599130312428_8",
+            "title": {
+              "text": "If my partner doesn't engage, can I still do therepy"
+            },
+            "content": {
+              "html": "<p>We only specialise in workshops and couples counselling where both partners are involved. We recommend you seek out a relationship counsellor who does individual counselling for partners.</p>"
+            },
+            "col": {}
+          },
+          {
+            "id": "faq_1599130347439_9",
+            "title": {
+              "text": "What are your fees and how cancellation policy"
+            },
+            "content": {
+              "html": "<p>Weekly 1 hour sessions Cost is $180.00 per couple. Payment to be made at time of consultation. Medicare Rebate is available for up to 10 sessions per year if you have a Mental Health Care Plan from your GP.</p>"
+            },
+            "col": {}
+          },
+          {
+            "id": "faq_1599130365610_10",
+            "title": { "text": "Is Telehealth available" },
+            "content": {
+              "html": "<p>Most of our Pre-Marathon Assessments are done via video conferencing.</p>"
+            },
+            "col": {}
+          },
+          {
+            "id": "faq_1599130385264_11",
+            "title": { "text": "Do therapists keep secrets between partners" },
+            "content": {
+              "html": "<p>It is not recommended that therapists generally keep secrets between partners.</p><p>Our role is to facilitate and encourage transparency between partners in order to reinforce a safe and trusting environment.</p><p>If a partner discloses a secret that will be therapy interfering then we will encourage the partner to talk to their spouse or offer to support by facilitating the conversation between them in a safe way.</p>"
+            },
+            "col": {}
+          },
+          {
+            "id": "faq_1599131526530_12",
+            "title": {
+              "text": "Why choose Marathon Therapy instead of traditional weekly therapy"
+            },
+            "content": {
+              "html": "<p>When stuck and experiencing relationship distress or your relationship is on the verge of collapse.</p><p>If you are pressed for time Marathon therapy makes it possible for couples to cover lots of ground in a short period of time.</p><p>In a Marathon, 12 weeks of weekly therapy can be condensed into just 2 days of counselling to be completed as a stand alone treatment w/o requiring an ongoing commitment. Whilst follow up sessions can be beneficial, not required.</p><p>Marathon therapy is uninterrupted time outside the traditional confines of time limits . Marathons are known to increase momentum and allow couples to dive deeper more rapidly with each other to resolve their issues.</p><p>If you want an impactful jump start then a marathon is the way to go.</p><p>Also ideal for couples travelling long distances.</p>"
+            },
+            "col": {}
+          },
+          {
+            "id": "faq_1599131568494_13",
+            "title": { "text": "When is a couple not suitable for therapy" },
+            "content": {
+              "html": "<p>When there is untreated pervasive mental health illness such as Schizophrenia, Bipolar and/or other psychosis.</p><p>When one or both partners are heavily engaged in substance misuse and/ or other detrimental addictions</p><p>When a person is at risk of harming themselves or others</p><p>When there is characterological domestic violence or DVO's</p><p>When a person is acutely suicidal or engaging in self harming behaviours.</p><p>If one or both partners are actively involved in an affair</p><p>Considerations may apply to couples where there is a serious medical/ health concern such as chronic fatigue or acute pain, more intensive longer counselling sessions may not be suitable.</p>"
+            },
+            "col": {}
+          },
+          {
+            "id": "faq_1599131637234_14",
+            "title": { "text": "What can I expect from Couples Counseling" },
+            "content": {
+              "html": "<p>Our couples counseling will provide you with a safe, nonjudgmental environment where you can safely talk about your challengers, work through difficulties and learn strategies that will help you break unhelpful ways of relating to each other.</p><p>Our aim is for couples to come to know each other in a new light, work through their differences and establish a solid relationship that can handle any storm that comes your way. Through evidence based therapy we have the tools that have proven to transform and heal relationships.</p><p>During therapy you will have the opportunity to identify negative patterns of communication that may be tearing your marriage apart while learning to replace these with more healthy styles of commutation. With the support of your therapist you will be given practical interactive exercises to guide and safe guard you while you work through your relationship dilemmas.</p>"
+            },
+            "col": {}
+          }
+        ]
+      },
+      "color": "#424242FF",
+      "dark": false
+    },
+    {
+      "id": "footer_1599044994008_21",
+      "name": "footer",
+      "auth": { "active": false, "access": [] },
+      "schedule": {
+        "video": { "active": false },
+        "date": { "active": false },
+        "page": { "active": false }
+      },
+      "container": { "spacing": {} },
+      "wrapper": { "spacing": {} },
+      "content": {
+        "options": {
+          "spacingY": 4,
+          "paddingX": 4,
+          "px": 0,
+          "pt": 0,
+          "pb": 0,
+          "elevation": 0,
+          "copyright": true,
+          "links": true,
+          "textColor": "#9E9E9EFF",
+          "color": "",
+          "dark": true,
+          "absolute": true,
+          "app": true
+        },
+        "items": [],
+        "content": {},
+        "copyright": {},
+        "links": [
+          {
+            "text": "Terms",
+            "clickAction": "href",
+            "href": "https://ginoskocounselling.com/terms",
+            "children": [],
+            "id": "link_1599045029380_22"
+          },
+          {
+            "text": "Privacy",
+            "clickAction": "href",
+            "href": "https://ginoskocounselling.com/privacy",
+            "children": [],
+            "id": "link_1599045047908_23"
+          }
+        ]
+      }
+    }
+  ],
+  "auth": {},
+  "content": {}
+}

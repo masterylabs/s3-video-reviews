@@ -1,14 +1,14 @@
-# Miracle Links
+# S3 Video Reviews
 
 https://masterylabs.com
 
 ### Repository
 
-https://github.com/masterylabs/wp-buckets
+https://github.com/masterylabs/s3-video-offers
 
 ### Slug & Id
 
-wpbuckets
+s3-video-offers
 
 ## Resources
 
